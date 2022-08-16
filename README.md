@@ -6,4 +6,4 @@ Pó
 E retorna ao pó...
 tudo é pó-esia
 @liziBugalski
-! [isso é uma imagem 
+! [isso é uma imagem] (https://www.biolinscientific.com/blog/powder-wettability-how-to-measure-wettability-of-powders)
